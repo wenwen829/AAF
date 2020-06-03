@@ -1,0 +1,9 @@
+The Body Metrix panel computes 9 parameters:
+IBW (Ideal Body Weight) 
+%IBW (% of Ideal Body Weight) 
+BSA (Body Surface Area) 
+BMI (Body Mass Index) 
+BMI class (Overweight & Obesity Classification) 
+WHR (Waist to Hip Ratio) 
+HRt (Target Heart Rate) 
+HRm (Maximum Heart Rate)

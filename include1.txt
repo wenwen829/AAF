@@ -1,0 +1,19 @@
+Total Energy Expenditure is calculated from age, gender, weight, 
+height and the activity factor. The Harris Benedict Equation was
+used for calculating energy expenditure rate.
+
+TEE = BEE x AF
+BEE (F) = 655 + 9.6 (Wt) + 1.8 (Ht) -4.7 (age)
+BEE (M) = 66 + 13.7 (Wt) + 5.0 (Ht) -6.8 (age)
+
+TEE = Total Energy Expenditure (kcal/d)
+Age = Age (years)
+gender = Gender (Male)
+Wt = Body Weight (kg)
+Ht = Body Height (cm)
+activity = Activity (factor)
+BEE = Basal Energy Expenditure (kcal/d)
+F= female. M= male.
+
+Activity equals 30% for sedentary, 50% for moderate and 100% for 
+strenous activity (% of the BEE).
